@@ -14,7 +14,7 @@ permalink: /home/
     <p style="font-size: 14px; margin: 3px 0;">Syracuse University</p>
     <div style="margin-top: 5px;">
       <a href="mailto:nuwamaho@syr.edu" style="margin-right: 8px;">📧</a>
-      <a href="https://github.com/naty1" target="_blank" style="margin-right: 8px;">🐙</a>
+      <a href="https://github.com/Nathalie-Uwamahoro" target="_blank" style="margin-right: 8px;">🐙</a>
       <a href="https://www.linkedin.com/in/nathalie-uwamahoro" target="_blank" style="margin-right: 8px;">🔗</a>
       <a href="/assets/cv.pdf" target="_blank">📄</a>
     </div>
