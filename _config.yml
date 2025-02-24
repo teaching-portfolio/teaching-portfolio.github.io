@@ -1,9 +1,12 @@
 title: "Nathalie Uwamahoro - Teaching Portfolio"
 description: "Teaching Portfolio showcasing my teaching experience, materials, and reflections."
 
-# IMPORTANT: Change baseurl to your repository name, prefixed with a slash
-baseurl: "/teaching_portfolio"
-url: "https://nathalie-uwamahoro.github.io"  # No trailing slash
+# For a USER site (teaching-portfolio.github.io), set baseurl to an empty string:
+baseurl: ""
+
+# The URL should match your new GitHub username (account name) + .github.io
+# with no trailing slash:
+url: "https://teaching-portfolio.github.io"
 
 theme: minima
 markdown: kramdown
@@ -13,7 +16,7 @@ author:
   email: "nuwamaho@syr.edu"
   social:
     linkedin: "https://www.linkedin.com/in/nathalie-uwamahoro"
-    my_website: "https://Nathalie-Uwamahoro.github.io"
+    # website: "https://Nathalie-Uwamahoro.github.io"
 
 navigation:
   - title: "Home"
