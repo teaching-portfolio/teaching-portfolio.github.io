@@ -1,9 +1,10 @@
 title: "Nathalie Uwamahoro - Teaching Portfolio"
 description: "Teaching Portfolio showcasing my teaching experience, materials, and reflections."
-baseurl: "/teaching_portfolio"  # Keep empty unless using a subpath
-url: "https://nathalie-uwamahoro.github.io"  # Local development URL
+baseurl: "/teaching_portfolio"  # Change this to match your repository name
+url: "https://nathalie-uwamahoro.github.io"  # Your GitHub Pages URL
 
 theme: minima
+markdown: kramdown  # Ensure Markdown is processed correctly
 
 # Author Information
 author:
