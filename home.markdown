@@ -24,7 +24,7 @@ permalink: /home/
   <div style="flex: 2; padding: 1px; text-align: justify; line-height: 1.4; font-size: 14px; max-width: 680px;">
     <h2 style="text-align: center; font-size: 18px; color: green; font-weight: bold;">Biography</h2>
     <p>
-        I am a third-year Ph.D. candidate in Electrical and Computer Engineering at Syracuse University, conducting research in the 
+        Welcome to my teaching portfolio. I am a third-year Ph.D. candidate in Electrical and Computer Engineering at Syracuse University, conducting research in the 
         <a href="https://seftekha.expressions.syr.edu/" target="_blank" style="color: #0073e6; text-decoration: none; font-weight: bold;">
             Smart Grid Research Lab
         </a> under the mentorship of 
