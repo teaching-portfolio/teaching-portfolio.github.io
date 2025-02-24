@@ -13,7 +13,7 @@ permalink: /personal-statement/
     <h2>Personal Statement</h2>
     
     <p style="font-size: 18px; max-width: 700px;">
-        You can view or download my complete teaching personal statement using the link below:
+        You can view or download my teaching personal statement using the link below:
     </p>
 
     <!-- Download Button -->
@@ -21,7 +21,7 @@ permalink: /personal-statement/
        style="display: inline-block; padding: 12px 20px; font-size: 18px; 
               background-color: #0073e6; color: white; text-decoration: none; 
               border-radius: 5px; margin-top: 10px;">
-        📄 View Personal Statement (PDF)
+        📄 View My Personal Statement (PDF)
     </a>
 
 </div>
