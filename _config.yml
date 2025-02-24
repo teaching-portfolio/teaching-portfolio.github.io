@@ -1,6 +1,6 @@
 title: "Nathalie Uwamahoro - Teaching Portfolio"
 description: "Teaching Portfolio showcasing my teaching experience, materials, and reflections."
-baseurl: "/teaching-portfolio"  # Keep empty unless using a subpath
+baseurl: "/teaching_portfolio"  # Keep empty unless using a subpath
 url: "https://nathalie-uwamahoro.github.io"  # Local development URL
 
 theme: minima
