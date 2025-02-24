@@ -59,7 +59,7 @@ permalink: /student-evaluations/
         <li style="margin-bottom: 10px; font-size: 18px;">
             📄 <a href="/assets/CIS151_Fall_detailed_evaluation.pdf" target="_blank" 
                  style="color: #007bff; text-decoration: none; font-weight: bold;">
-                 View Student Evaluation Fall (PDF)
+                 View Student Feedback 3 (PDF)
             </a>
         </li>
     </ul>
