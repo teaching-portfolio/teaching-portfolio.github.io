@@ -30,8 +30,7 @@ permalink: /home/
         </a> under the mentorship of 
         <a href="https://ecs.syracuse.edu/faculty-staff/sara-eftekharnejad" target="_blank" style="color: #0073e6; text-decoration: none; font-weight: bold;">
             Dr. Sara Eftekharnejad
-        </a>. My work focuses on power system stability and the application of machine learning in smart grids, 
-        driving innovation toward more resilient and flexible energy systems. I am actively seeking a Summer 2025 Ph.D.-level internship.
+        </a>. I have been a Teaching Assistant for CIS 151 and CIS 351 which are the mandatory courses for computer engineering undergraduate students with more than 100 students in the Fall semester.
     </p>      
   </div>
 </div>

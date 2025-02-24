@@ -21,7 +21,7 @@ permalink: /personal-statement/
        style="display: inline-block; padding: 12px 20px; font-size: 18px; 
               background-color: #0073e6; color: white; text-decoration: none; 
               border-radius: 5px; margin-top: 10px;">
-        📄 Download Personal Statement (PDF)
+        📄 View Personal Statement (PDF)
     </a>
 
 </div>
