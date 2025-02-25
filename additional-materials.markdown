@@ -13,11 +13,11 @@ permalink: /additional-materials/
     <h2 style="color: #007b5e; font-size: 28px; margin-bottom: 10px;">📘 Teaching Mentor 2024 Quantitative Evaluation</h2>
     
     <p style="font-size: 18px; max-width: 750px; color: #333;">
-        As a dedicated teaching mentor, I have worked closely with students to enhance their learning experience. Below, you can view or download my official Teaching Mentor 2024 Quantitative Evaluation highlighting the impact of my mentorship.
+        Below, you can view or download my official Teaching Mentor 2024 Quantitative Evaluation highlighting the impact of my mentorship.
     </p>
 
     <!-- Beautiful Download Button -->
-    <a href="/assets/TM_Evaluation_2024.pdf" 
+    <a href="/assets/Uwamahoro_tm_evaluation.pdf" 
        style="display: inline-block; padding: 15px 25px; font-size: 18px; font-weight: bold; 
               background: linear-gradient(to right, #0073e6, #005bb5); color: white; text-decoration: none; 
               border-radius: 8px; margin-top: 15px; transition: background 0.3s ease-in-out;">
